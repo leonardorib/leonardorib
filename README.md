@@ -1,4 +1,8 @@
-### Hi there 👋
+### Leonardo Ribeiro
+----------
+> A life without programming is not worth living
+><p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Socrates (399, BC)</p>
+>Trust me, he said it. :grin:
 
 <!--
 **leonardorib/leonardorib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
