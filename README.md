@@ -1,5 +1,8 @@
-### Leonardo Ribeiro
-----------
+<h1>Leonardo Ribeiro</h1>
+
+<p>It's incredible what you can do with just some lines of code</p>
+<p>Currently learning NodeJS, React and React Native</p>
+
 > A life without programming is not worth living
 ><p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp   Socrates (399, BC)</p>
 >Trust me, he said it. :grin:
