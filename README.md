@@ -8,6 +8,8 @@ Started to study chemical engineering at University and the more the time went o
 
 I've decided it was time to go after programming. And this time, to focus on a technology stack and stick to it. I'm now focused on web and mobile development with **Javascript/Typescript**, **Node.js**, **React** and **React Native**, pursuing a job as a software developer.
 
+If you want to know what I've been working on, check out my pinned repositories. I promise you will find friendly README's. :wink: :grin:
+
 ### 🛠 What can I do? What's my stack?
 
 #### Main Languages
