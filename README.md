@@ -6,7 +6,7 @@ I've discovered programming when I was a kid, visiting online forums and doing s
 
 Started to study chemical engineering at University and the more the time went on, the more I was in love with programming classes and not so much with reactors, tanks, heat exchangers and other chemical engineers stuff. **So what did I do?**
 
-I've decided it was time to go after programming. And this time, to focus on a technology stack and stick to it. I'm now focused on web and mobile development with **Javascript/Typescript**, **Node.js**, **React** and **React Native**, pursuing a job as a software developer.
+I've decided it was time to go after programming. And this time, to focus on a technology stack and stick to it. I'm now working as a software developer, using primarily **Javascript/Typescript**, **Node.js**, **React** and **React Native**.
 
 If you want to know what I've been working on, check out my pinned repositories. I promise you will find friendly README's. :wink: :grin:
 
