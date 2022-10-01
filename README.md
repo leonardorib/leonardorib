@@ -1,20 +1,20 @@
 ## Hey there! I'm Leonardo :brazil:
 
-### 👨🏻‍💻 &nbsp;Who am I? What's my story?
+### About me
 
-I've discovered programming when I was a kid, visiting online forums and doing some googling. At the begninning, never had any professional aspiration with code, just did it for fun every now and then: tic-tac-toe in C, Snake Game in Python, having fun with and Arduino, thinkering with HTML and CSS and so many other things.
+I'm a software engineer with experience in both back-end and front-end, developing and deploying web and mobile applications and using primarily **Javascript/Typescript**, **Node.js**, **React** and **React Native**.
 
-Started to study chemical engineering at University and the more the time went on, the more I was in love with programming classes and not so much with reactors, tanks, heat exchangers and other chemical engineers stuff. **So what did I do?**
+I have developed applications for clients from different sectors, working with features such as notifications, in-app purchases, geolocation, animations, Firebase, etc.
 
-I've decided it was time to go after programming. And this time, to focus on a technology stack and stick to it. I'm now working as a software developer, using primarily **Javascript/Typescript**, **Node.js**, **React** and **React Native**.
+Lifelong learner and passionate about technology. Daily trying out new technologies during leisure time.
 
-If you want to know what I've been working on, check out my pinned repositories. I promise you will find friendly README's. :wink: :grin:
+If you want to know what I've been doing for fun or studying purposes, check out my pinned repositories. I promise you will find friendly README's. :wink: :grin:
 
-### 🛠 What can I do? What's my stack?
+### My stack
 
-#### Main Languages
+#### Main languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript) ![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=for-the-badge&logo=typescript) ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5) ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 
 #### Frameworks and technologies
 
@@ -24,9 +24,9 @@ If you want to know what I've been working on, check out my pinned repositories.
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=for-the-badge&logo=postgresql) ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb) ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 
-#### Development tools
+#### Version control
 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=for-the-badge&logo=bitbucket&logoColor=007ACC) ![GitLab](https://img.shields.io/badge/-Gitlab-333333?style=for-the-badge&logo=gitlab&logoColor=007ACC)
 
 <br/>
 
@@ -36,11 +36,9 @@ If you want to know what I've been working on, check out my pinned repositories.
 
 <br/>
 
-### 🤝🏻 &nbsp;Get in touch
-
-<p align="center">
-<a href="https://www.linkedin.com/in/leonardorib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leonardorib-blue?style=for-the-badge&logo=linkedin&labelColor=333333"></a> &nbsp &nbsp &nbsp<a href="mailto:leonardo.rib@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leonardo.rib@hotmail.com-blue?style=for-the-badge&logo=microsoft-outlook&labelColor=333333"></a>
-</p>
+### Get in touch
+<div>
+<a href="https://www.linkedin.com/in/leonardorib/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-leonardorib-blue?style=for-the-badge&logo=linkedin&labelColor=333333"></a> &nbsp <a href="mailto:leonardo.rib@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-leonardo.rib@hotmail.com-blue?style=for-the-badge&logo=microsoft-outlook&labelColor=333333"></a></div>
 
 #### Words of wisdom
 
